@@ -26,7 +26,7 @@
         {
             "id": 3,
             "name": "ESP8266 CP2014 c WIFI и OLED",
-            "description": "Компактная плата на основе микроконтроллера ESP8266",
+            "description": "Компактная плата на основе микроконтроллера ESP8266. С помощью такой платы Вы можете найти ошибки в работе своего устройства на основе Arduino",
             "price": 275.00,
             "photo_url": "https://www.robostore.com.ua/content/images/43/1500x1500l80mc0/otladochnaja-plata-esp8266-cp2014-c-wifi-i-oled-displeem-18652275990822.webp"
         },
